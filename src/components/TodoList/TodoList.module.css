@@ -1,0 +1,11 @@
+section.container {
+	display: flex;
+	flex-direction: column;
+	height: 90%;
+	min-width: 0;
+	background-color: var(--color-bg);
+}
+ul.list {
+	flex: 1 1 auto;
+	overflow-y: auto;
+}
