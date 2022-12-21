@@ -51,6 +51,7 @@ body {
 	flex-direction: column;
 	box-shadow: 5px 5px 25px rgba(0, 0, 0, 0.5);
 	overflow: hidden;
+	padding:0 10px;
 }
 button {
 	border: none;
