@@ -42,7 +42,7 @@ body {
 	background: linear-gradient(to right, #2c5364, #203a43, #0f2027);
 }
 #root {
-	width: 100%;
+	width: 95%;
 	max-width: 500px;
 	height: 60%;
 	background-color: var(--color-bg-dark);
@@ -50,8 +50,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	box-shadow: 5px 5px 25px rgba(0, 0, 0, 0.5);
-	overflow: hidden;
-	padding:0 10px;
+	overflow: hidden;	
 }
 button {
 	border: none;
